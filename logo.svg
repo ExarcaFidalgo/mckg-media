@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generado por Microsoft Visio, SVG Export logo.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="3082" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.5}
+		.st2 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:6.375}
+		.st3 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:6}
+		.st4 {fill:#000000}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Página-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Diagrama de flujo" v:index="0"/>
+		<g id="shape30-1" v:mID="30" v:groupContext="shape" transform="translate(853.121,-292.9) rotate(50)">
+			<title>Franja diagonal.30</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L114.35 733.93 L101.2 733.93 L0 829.47 L0 841.89 Z" class="st1"/>
+		</g>
+		<g id="shape29-3" v:mID="29" v:groupContext="shape" transform="translate(-422.022,-19.4719) rotate(-75)">
+			<title>Franja diagonal.29</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L85.04 761.6 L68.03 761.6 L0 825.83 L0 841.89 Z" class="st1"/>
+		</g>
+		<g id="shape28-5" v:mID="28" v:groupContext="shape" transform="translate(274.961,932.598) rotate(180)">
+			<title>Franja diagonal</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L85.04 761.6 L68.03 761.6 L0 825.83 L0 841.89 Z" class="st1"/>
+		</g>
+		<g id="group7-7" transform="translate(147.402,-591.704)" v:mID="7" v:groupContext="group">
+			<title>Libro abierto</title>
+			<g id="shape8-8" v:mID="8" v:groupContext="shape">
+				<title>Hoja.8</title>
+				<path d="M101.69 766.6 L109.13 766.6 L109.13 838.06 L65.73 838.06 C65.73 840.23 64.12 841.89 62.01 841.89 L47.13
+							 841.89 C45.02 841.89 43.41 840.23 43.41 838.06 L0 838.06 L0 766.6 L7.44 766.6 L7.44 829.13 L101.69 829.13
+							 L101.69 766.6 Z" class="st2"/>
+			</g>
+			<g id="shape9-10" v:mID="9" v:groupContext="shape" transform="translate(12.4016,-17.8644)">
+				<title>Hoja.9</title>
+				<path d="M76.89 834.23 L76.89 784.47 L44.65 784.47 L44.65 834.23 L76.89 834.23 ZM7.44 784.47 L7.44 834.23 L39.69
+							 834.23 L39.69 784.47 L7.44 784.47 ZM84.33 776.81 L84.33 841.89 L0 841.89 L0 776.81 L84.33 776.81 Z"
+						class="st2"/>
+			</g>
+			<g id="shape10-12" v:mID="10" v:groupContext="shape" transform="translate(64.4882,-58.6972)">
+				<title>Hoja.10</title>
+				<rect x="0" y="838.062" width="17.3622" height="3.82808" class="st2"/>
+			</g>
+			<g id="shape11-14" v:mID="11" v:groupContext="shape" transform="translate(64.4882,-51.0411)">
+				<title>Hoja.11</title>
+				<rect x="0" y="838.062" width="17.3622" height="3.82808" class="st2"/>
+			</g>
+			<g id="shape12-16" v:mID="12" v:groupContext="shape" transform="translate(64.4882,-43.3849)">
+				<title>Hoja.12</title>
+				<rect x="0" y="838.062" width="12.0295" height="3.82808" class="st2"/>
+			</g>
+		</g>
+		<g id="group13-18" transform="translate(351.496,-566.929)" v:mID="13" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>Publicaciones</title>
+			<g id="shape14-19" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(4.24849,-10.1391)">
+				<title>Hoja.14</title>
+				<path d="M4.17 838.23 C4.17 837.49 4.76 836.89 5.5 836.89 L33.33 836.89 L51.03 836.91 L51.03 834.58 L1.95 834.58
+							 L1.95 778.97 L0.12 778.97 L0.12 779 L0 778.99 C0 778.99 0 840.1 0 840.11 C0 841.08 0.65 841.89 1.76
+							 841.89 L49.32 841.89 L49.32 839.57 L5.5 839.57 C4.76 839.57 4.17 838.97 4.17 838.23 Z" class="st3"/>
+			</g>
+			<g id="shape15-21" v:mID="15" v:groupContext="shape" v:layerMember="0">
+				<title>Hoja.15</title>
+				<path d="M4.17 838.23 C4.17 837.49 4.77 836.89 5.5 836.89 L33.33 836.89 L51.04 836.91 L51.04 834.58 L1.95 834.58
+							 L1.95 778.96 L0.12 778.96 L0.12 779 L0 778.99 L0 840.11 C0 841.08 0.65 841.89 1.76 841.89 L49.32 841.89
+							 L49.32 839.57 L5.5 839.57 C4.76 839.57 4.17 838.97 4.17 838.23 ZM13.99 817.14 L41.82 817.14 L59.53 817.15
+							 L59.53 759.21 L8.62 759.21 L8.62 759.24 L8.49 759.24 L8.5 820.35 C8.5 821.33 9.15 822.14 10.25 822.14
+							 L57.81 822.14 L57.81 819.82 L13.99 819.82 C13.26 819.82 12.66 819.22 12.66 818.48 C12.66 817.74 13.26
+							 817.14 13.99 817.14 Z" class="st3"/>
+			</g>
+			<g id="shape16-23" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(21.7761,-58.5333)">
+				<title>Hoja.16</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<path d="M-0 833.01 L28.78 833.01 L28.78 830.7 L-0 830.7 L-0 833.01 ZM-0 841.89 L17.56 841.89 L17.56 839.58 L-0 839.58
+							 L-0 841.89 Z" class="st4"/>
+			</g>
+		</g>
+		<g id="shape17-26" v:mID="17" v:groupContext="shape" transform="translate(-128.144,-590.267) rotate(-30)">
+			<title>Círculo</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 807.22 A34.6675 34.6675 0 0 1 69.34 807.22 A34.6675 34.6675 0 1 1 0 807.22 Z" class="st3"/>
+		</g>
+	</g>
+</svg>
