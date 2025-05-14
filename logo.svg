@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Generado por Microsoft Visio, SVG Export logo.svg Page-1 -->
+<!-- Generado por Microsoft Visio, SVG Export logo.svg Página-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
-		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
-	<v:documentProperties v:langID="3082" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.55668in" height="2.64172in"
+		viewBox="0 0 184.081 190.204" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="3082" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
 	<![CDATA[
@@ -25,90 +21,89 @@
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
 				v:shadowOffsetY="-8.50394"/>
 		<v:layer v:name="Diagrama de flujo" v:index="0"/>
-		<g id="shape30-1" v:mID="30" v:groupContext="shape" transform="translate(853.121,-292.9) rotate(50)">
+		<g id="shape30-1" v:mID="30" v:groupContext="shape" transform="translate(185.849,1.83646) rotate(50)">
 			<title>Franja diagonal.30</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 841.89 L114.35 733.93 L101.2 733.93 L0 829.47 L0 841.89 Z" class="st1"/>
+			<path d="M0 190.2 L69.51 124.57 L61.52 124.57 L0 182.66 L0 190.2 Z" class="st1"/>
 		</g>
-		<g id="shape29-3" v:mID="29" v:groupContext="shape" transform="translate(-422.022,-19.4719) rotate(-75)">
+		<g id="shape29-3" v:mID="29" v:groupContext="shape" transform="translate(-32.3403,44.5761) rotate(-75)">
 			<title>Franja diagonal.29</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 841.89 L85.04 761.6 L68.03 761.6 L0 825.83 L0 841.89 Z" class="st1"/>
+			<path d="M0 190.2 L51.7 141.4 L41.36 141.4 L0 180.44 L0 190.2 Z" class="st1"/>
 		</g>
-		<g id="shape28-5" v:mID="28" v:groupContext="shape" transform="translate(274.961,932.598) rotate(180)">
+		<g id="shape28-5" v:mID="28" v:groupContext="shape" transform="translate(80.7314,218.527) rotate(180)">
 			<title>Franja diagonal</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 841.89 L85.04 761.6 L68.03 761.6 L0 825.83 L0 841.89 Z" class="st1"/>
+			<path d="M0 190.2 L51.7 141.4 L41.36 141.4 L0 180.44 L0 190.2 Z" class="st1"/>
 		</g>
-		<g id="group7-7" transform="translate(147.402,-591.704)" v:mID="7" v:groupContext="group">
+		<g id="group7-7" transform="translate(3.1875,-64.9337)" v:mID="7" v:groupContext="group">
 			<title>Libro abierto</title>
 			<g id="shape8-8" v:mID="8" v:groupContext="shape">
 				<title>Hoja.8</title>
-				<path d="M101.69 766.6 L109.13 766.6 L109.13 838.06 L65.73 838.06 C65.73 840.23 64.12 841.89 62.01 841.89 L47.13
-							 841.89 C45.02 841.89 43.41 840.23 43.41 838.06 L0 838.06 L0 766.6 L7.44 766.6 L7.44 829.13 L101.69 829.13
-							 L101.69 766.6 Z" class="st2"/>
+				<path d="M61.82 144.44 L66.34 144.44 L66.34 187.88 L39.96 187.88 C39.96 189.2 38.98 190.2 37.69 190.2 L28.65 190.2
+							 C27.37 190.2 26.39 189.2 26.39 187.88 L0 187.88 L0 144.44 L4.52 144.44 L4.52 182.45 L61.82 182.45 L61.82
+							 144.44 Z" class="st2"/>
 			</g>
-			<g id="shape9-10" v:mID="9" v:groupContext="shape" transform="translate(12.4016,-17.8644)">
+			<g id="shape9-10" v:mID="9" v:groupContext="shape" transform="translate(7.53899,-10.8599)">
 				<title>Hoja.9</title>
-				<path d="M76.89 834.23 L76.89 784.47 L44.65 784.47 L44.65 834.23 L76.89 834.23 ZM7.44 784.47 L7.44 834.23 L39.69
-							 834.23 L39.69 784.47 L7.44 784.47 ZM84.33 776.81 L84.33 841.89 L0 841.89 L0 776.81 L84.33 776.81 Z"
-						class="st2"/>
+				<path d="M46.74 185.55 L46.74 155.3 L27.14 155.3 L27.14 185.55 L46.74 185.55 ZM4.52 155.3 L4.52 185.55 L24.12 185.55
+							 L24.12 155.3 L4.52 155.3 ZM51.27 150.64 L51.27 190.2 L0 190.2 L0 150.64 L51.27 150.64 Z" class="st2"/>
 			</g>
-			<g id="shape10-12" v:mID="10" v:groupContext="shape" transform="translate(64.4882,-58.6972)">
+			<g id="shape10-12" v:mID="10" v:groupContext="shape" transform="translate(39.2027,-35.6824)">
 				<title>Hoja.10</title>
-				<rect x="0" y="838.062" width="17.3622" height="3.82808" class="st2"/>
+				<rect x="0" y="187.877" width="10.5546" height="2.32711" class="st2"/>
 			</g>
-			<g id="shape11-14" v:mID="11" v:groupContext="shape" transform="translate(64.4882,-51.0411)">
+			<g id="shape11-14" v:mID="11" v:groupContext="shape" transform="translate(39.2027,-31.0281)">
 				<title>Hoja.11</title>
-				<rect x="0" y="838.062" width="17.3622" height="3.82808" class="st2"/>
+				<rect x="0" y="187.877" width="10.5546" height="2.32711" class="st2"/>
 			</g>
-			<g id="shape12-16" v:mID="12" v:groupContext="shape" transform="translate(64.4882,-43.3849)">
+			<g id="shape12-16" v:mID="12" v:groupContext="shape" transform="translate(39.2027,-26.3739)">
 				<title>Hoja.12</title>
-				<rect x="0" y="838.062" width="12.0295" height="3.82808" class="st2"/>
+				<rect x="0" y="187.877" width="7.31282" height="2.32711" class="st2"/>
 			</g>
 		</g>
-		<g id="group13-18" transform="translate(351.496,-566.929)" v:mID="13" v:groupContext="group" v:layerMember="0">
+		<g id="group13-18" transform="translate(127.258,-49.873)" v:mID="13" v:groupContext="group" v:layerMember="0">
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
 			</v:userDefs>
 			<title>Publicaciones</title>
-			<g id="shape14-19" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(4.24849,-10.1391)">
+			<g id="shape14-19" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(2.58268,-6.16361)">
 				<title>Hoja.14</title>
-				<path d="M4.17 838.23 C4.17 837.49 4.76 836.89 5.5 836.89 L33.33 836.89 L51.03 836.91 L51.03 834.58 L1.95 834.58
-							 L1.95 778.97 L0.12 778.97 L0.12 779 L0 778.99 C0 778.99 0 840.1 0 840.11 C0 841.08 0.65 841.89 1.76
-							 841.89 L49.32 841.89 L49.32 839.57 L5.5 839.57 C4.76 839.57 4.17 838.97 4.17 838.23 Z" class="st3"/>
+				<path d="M2.53 187.98 C2.53 187.53 2.9 187.17 3.34 187.17 L20.26 187.17 L31.02 187.17 L31.02 185.76 L1.18 185.76
+							 L1.18 151.95 L0.07 151.95 L0.07 151.97 L0 151.97 C0 151.97 0 189.11 0 189.12 C0 189.71 0.4 190.2 1.07
+							 190.2 L29.98 190.2 L29.98 188.8 L3.34 188.8 C2.9 188.8 2.53 188.43 2.53 187.98 Z" class="st3"/>
 			</g>
 			<g id="shape15-21" v:mID="15" v:groupContext="shape" v:layerMember="0">
 				<title>Hoja.15</title>
-				<path d="M4.17 838.23 C4.17 837.49 4.77 836.89 5.5 836.89 L33.33 836.89 L51.04 836.91 L51.04 834.58 L1.95 834.58
-							 L1.95 778.96 L0.12 778.96 L0.12 779 L0 778.99 L0 840.11 C0 841.08 0.65 841.89 1.76 841.89 L49.32 841.89
-							 L49.32 839.57 L5.5 839.57 C4.76 839.57 4.17 838.97 4.17 838.23 ZM13.99 817.14 L41.82 817.14 L59.53 817.15
-							 L59.53 759.21 L8.62 759.21 L8.62 759.24 L8.49 759.24 L8.5 820.35 C8.5 821.33 9.15 822.14 10.25 822.14
-							 L57.81 822.14 L57.81 819.82 L13.99 819.82 C13.26 819.82 12.66 819.22 12.66 818.48 C12.66 817.74 13.26
-							 817.14 13.99 817.14 Z" class="st3"/>
+				<path d="M2.53 187.98 C2.53 187.53 2.9 187.17 3.34 187.17 L20.26 187.17 L31.03 187.17 L31.03 185.76 L1.18 185.76
+							 L1.18 151.95 L0.07 151.95 L0.07 151.97 L0 151.97 L0 189.12 C0 189.71 0.4 190.2 1.07 190.2 L29.98 190.2
+							 L29.98 188.8 L3.34 188.8 C2.9 188.8 2.53 188.43 2.53 187.98 ZM8.51 175.16 L25.42 175.16 L36.19 175.17
+							 L36.19 139.94 L5.24 139.94 L5.24 139.96 L5.16 139.96 L5.17 177.11 C5.17 177.7 5.56 178.2 6.23 178.2
+							 L35.15 178.2 L35.15 176.79 L8.51 176.79 C8.06 176.79 7.7 176.42 7.7 175.97 C7.7 175.52 8.06 175.16 8.51
+							 175.16 Z" class="st3"/>
 			</g>
-			<g id="shape16-23" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(21.7761,-58.5333)">
+			<g id="shape16-23" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(13.2378,-35.5827)">
 				<title>Hoja.16</title>
 				<v:userDefs>
 					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
 				</v:userDefs>
-				<path d="M-0 833.01 L28.78 833.01 L28.78 830.7 L-0 830.7 L-0 833.01 ZM-0 841.89 L17.56 841.89 L17.56 839.58 L-0 839.58
-							 L-0 841.89 Z" class="st4"/>
+				<path d="M-0 184.81 L17.49 184.81 L17.49 183.4 L-0 183.4 L-0 184.81 ZM-0 190.2 L10.68 190.2 L10.68 188.8 L-0 188.8
+							 L-0 190.2 Z" class="st4"/>
 			</g>
 		</g>
-		<g id="shape17-26" v:mID="17" v:groupContext="shape" transform="translate(-128.144,-590.267) rotate(-30)">
+		<g id="shape17-26" v:mID="17" v:groupContext="shape" transform="translate(-3.5254,-107.145) rotate(-30)">
 			<title>Círculo</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 807.22 A34.6675 34.6675 0 0 1 69.34 807.22 A34.6675 34.6675 0 1 1 0 807.22 Z" class="st3"/>
+			<path d="M0 169.13 A21.0746 21.0746 0 0 1 42.15 169.13 A21.0746 21.0746 0 1 1 0 169.13 Z" class="st3"/>
 		</g>
 	</g>
 </svg>
